@@ -10,10 +10,6 @@
   width: 100%;
   margin: 0 auto;
 }
-/* header qismi boshlandi */
-.header {
-  background: rgb(144, 199, 199);
-}
 .navigation {
   display: flex;
   align-items: center;
